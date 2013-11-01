@@ -1,0 +1,216 @@
+FRANK GIACOIO	Home - 914-793-5392, Cell 914-413-1680, Email fgiacoio@yahoo.com
+
+PROFESSIONAL EXPERIENCE
+MediaOcean (formerly Donovan Data Systems), New York, NY	4/09 to 8/13
+Quality Assurance Manager
+Responsibilities:
+·	Managed all aspects of QA for an Advertising Technology Company.
+·	Interviewed, hired and directed QA Analysts and Engineers for various projects.
+·	Wrote QA test plans for advertising systems and third party testing projects.
+·	Developed testing heuristics by performing impact analysis with Development team.
+·	Reviewed, revised and approved QA test cases to ensure business requirement traceability.
+·	Participated in daily Standup Sessions, and regular Sprint Planning, and Review Meetings.
+·	Reviewed test scenarios for automation scripting for completeness and test data requirements.
+·	Reviewed customer tickets in Zendesk to identify and report gaps in testing.
+·	Scheduled QA automation test runs and maintenance cycles with product and development teams.
+·	Reviewed automated test results, retested discrepancies, debugged scripts, and reported defects.
+·	Reported QA metrics and testing progress on traditional media projects to management team.
+·	Reported defect trends and wrote customized SQL to create ad-hoc reports for management presentations.
+·	Piloted keyword driven test framework based on BDD concepts to create Selenium/WebDriver automation.
+·	Created training guides for new defect tracking system and presented to New York staff.
+·	Established compatibility testing process for new third party software releases.
+·	Maintained compatibility matrix for account team and help desk staff to support end users.
+·	Maintained company proprietary defect and requirements tracking system based on IBM/Rational tools.
+·	Worked with Operations team to consolidate to Blade technology for all virtual servers.
+·	Created and executed snapshot backups and restores to control VM environment. 
+·	Expanded use of Virtualization by creating VM environments for remote and offshore QA test team.
+·	Reassigned test activities for traditional media systems after corporate merger and downsizing.
+	
+Endurance Specialty Insurance, White Plains, NY	12/05 to 3/09
+Quality Assurance Manager
+QA Responsibilities:
+·	Created the QA Strategic Plan for the implementation of the Quality Assurance team to implement Validation Standards, Quality Control, and Continuous Improvement for the Information Technology Department.
+·	Established a QA discipline within the corporate technology department at Endurance.
+·	Formed team of 3 QA software testers to perform validation of internally developed software and third party software integration projects.
+·	Developed a QA engagement strategy used on a wide variety of software projects.
+·	Reported system defects and created quality metric reports using the Microsoft VSTS tool.
+·	Received new system change specifications and business requirements using VSTS and Team Plain Web interface and developed QA test conditions.
+·	Developed test case automation and load test scripts using Microsoft Team System.
+·	Allocated QA resources on Insurance, Reinsurance and Corporate projects.
+·	Performed hands on testing on Lotus Notes email to Outlook/Exchange conversion project.
+·	Developed test plans and executed test case cycles for the Ceded Reinsurance project using the ProCede Reinsurance Management Software interfacing the Genius System (AS400) and SQL Server based systems for Underwriting Management.
+·	Managed QA activities testing of new features, bug fixes and upgrade releases on XML based “Duck Creek” Policy Administration system.
+·	Used XML shredder to normalize data and load into SQL server relational database for QA analysis.
+·	Developed a SQL script based data loading facility using Openquery to set base state for testing repeatability.
+·	Developed Disaster Recovery Testing process to cover all critical insurance and infrastructure systems.
+·	Participated in Change Control meetings to determine impact of changes across multiple systems.
+·	Tested NuView Human Resource management system.
+·	Tested Supportworks Hornbill system for incident management and change control ticket processing.
+·	Created data validation test cases to support Data Warehouse testing.
+
+American International Group, NYC, NY	3/04 to 11/05
+Quality Assurance Manager 
+QA Responsibilities:
+·	Created the QA Strategic Plan for the implementation of the Quality Assurance, Quality Control, and Continuous Improvement for the Enterprise Risk Management Technology team.  
+·	Developed the Project Governance framework with objective entry and exit criteria.
+·	Changed previous method of QA testing confined to a single stage in the project life cycle, to the full life-cycle approach consistent to Project Governance.
+·	Managed automation effort using K-Shell, File-Aid, and Quick Test Pro to test Datastage middleware, Oracle Database, and Websphere web application.
+·	Tested Data Warehouse back end application using Compuware File-Aid.
+·	Established a UAT support function within QA to improve the efficiency of UAT activities.
+Support Compliance and Sarbanes Oxley:
+·	Coordinated Sarbanes Oxley reporting submission with Enterprise Risk Management business units.
+·	Met with Audit to assemble internal controls and established an “Entity Level” control.  
+·	Met with Price Waterhouse Coopers to review departmental implementation of the COSO Framework.  
+·	Helped strengthen departmental practices into defined processes to be compliant for Sarbanes Oxley.
+·	Implemented an internal monthly review process to provide detail for upcoming audit.
+·	Bolstered departmental procedures to be acceptable from Sarbanes Oxley perspective. 
+·	Audit third party software package escrow arrangements.
+Support Change Management and Configuration Management Function:
+·	Developed Change Management procedures and related processes.
+·	Created Change Control form to assist software promotion through Development, QA, and Production.
+·	Created and rolled out a Sarbanes Oxley compliant change control procedure based on approvals and weekly change control review meetings.  
+·	Established initial Configuration Management procedures and guidelines.
+Staffing Responsibilities:
+·	Coached nine onshore and three offshore QA staff members on Quality Assurance testing concepts. 
+·	Assigned QA staff to project components as necessary.
+·	Managed CM team consisting of two onshore and one offshore staff members.
+
+
+
+Election.com / Election Services Corporation, Westbury N.Y.                                6/00 to 12/03
+Quality Assurance Manager
+QA Responsibilities:
+·	Assessed development environment for Quality Assurance needs and created QA strategy.
+·	Wrote department QA Charter using CMM methodology.
+·	Participated in design meetings for XML voting system redesign.
+·	Created test plans and test cases for various election types (Choice, Preferential, Proxy, etc.). 
+·	Created Use Case Scenarios based on client's election rules and voting by-laws.
+·	Performed White Box testing on front end and back end system components.
+·	Performed Black Box and Data Validation testing on back end security component.
+·	Wrote and executed automated tests using Winrunner.
+·	Executed smoke tests, and performed functionality testing, and regression testing.
+·	Designed and implemented IIS performance tests using MS Web Application Stress (WAS).
+·	Tested system utilities used to support online elections.
+·	Designed test strategy for user accessibility testing based on W3C/Web Content Accessibility Guidelines and U.S. Section 508 Guidelines.
+·	Assessed web interface compatibility using the Watchfire “Bobby” tool as well as testing with Freedom Scientific “Jaws” reader software.
+·	Use Enterprise Manager and DTS to automate loading SQL Server test database from Excel.
+·	Wrote K-shell scripts and FTP to create test data “base states” using MKS Toolkit.
+·	Tracked and reported application defects using “Bugtrack” and the Accenture “SIR” tool and summarize quality metrics to management.
+·	Met with development team and project manager to resolve open issues.
+·	Extensively reviewed U.S. Federal Government voting standards and Military Standard 810F.
+·	Assisted Product Management to incorporate Federal Election Commission requirements into new product design.
+System Support Responsibilities:
+·	Developed Change Management procedures and related processes.
+·	Created change control form to assist software promotion through Development, QA, and Production.
+Staffing Responsibilities:
+·	Coached QA staff on Quality Assurance testing concepts. 
+·	Assigned QA staff to project components as necessary.
+
+
+Merrill Lynch Inc., New York, N.Y.	3/00 to 5/00
+Quality Assurance Manager
+·	Managed QA on an internal system project up to the point where the project was cancelled.
+·	Used Rational Clearquest for defect tracking and Rational ClearCase for QA deliverables.
+
+
+National Securities Clearing Corporation, NYC, NY	6/97 to 3/00
+Quality Assurance Manager, NSCC Client Server QA Group	
+Accomplishments:
+·	Wrote Quality Assurance Department Charter to support CMM goals. 
+·	Established Systems Quality Assurance Group in compliance with CMM initiative.
+·	Provided guidance within IT department in use of source code management tool: Version Manager.
+·	Established CMM compliant Requirements Management function within systems department.
+·	Performed QA Audit in a distributed development environment.
+·	Oversaw the development of NSCC's testing strategy for NSCC’s "Verisign Digital Certificate administration utility" for secured Internet connectivity.
+·	Worked on automated testing strategy to support testing of Internet applications using Silk Test.
+·	Performed code reviews on "PC Web Direct" based on HTML and Java Script.
+·	Conducted extensive product evaluations of Silk Performer and Loadrunner.
+·	Designed and implemented Netscape Enterprise Server performance tests using Silk Performer.
+QA Responsibilities:
+·	Met with project development teams to assess their need for QA assistance.
+·	Deployed technical writing staff to projects as needed. 
+·	Executed test plan and tracked defects for NSCC's Client/Server Treasury Application.
+·	Performed Functional and Regression Testing on Risk Management (EMRMS) systems.
+·	Performed White Box Testing on Risk Management system components 
+·	Reviewed, modified and approved all QA test plans, and set acceptance criteria.
+·	Reviewed an Annuities design project based on XML technology.
+·	Monitored progress and track schedule advances and deviations. 
+·	Communicated QA metrics to Project Managers and Senior Management. 
+·	Worked with Project Managers to meet CMM (Capability Maturity Model) level 2 standards. 
+·	Assisted VP of Systems Administration to improve Configuration Management standards. 
+·	Set up and administer Merrant Tracker for defect tracking. 
+·	Oversaw development of automation tools such as Rational Robot and Silk Test. 
+·	Coordinate QA efforts with QA Managers from other organizations in the clearance and settlement process: Securities Industry Automation Corporation , Deutsche Bank and Depository Trust Corp. 
+·	Deployed all aspects of QA and testing on Treasury System.
+Systems Development Responsibilities:
+·	Worked with Systems Administration to construct adequate test environments using Netscape Web servers Sybase, NT application servers and NT client workstations.
+·	Interface with network security group to provide an appropriate Internet test environment.
+·	Wrote K shell scripts to log web server performance statistics.
+ Staffing Responsibilities:
+·	Oversaw activities of seven QA staff member and one technical writer and administer career plans.
+·	Coached QA analysts on Quality Assurance testing concepts.
+·	Assigned QA staff to projects as required by the implementation schedule.
+·	Coordinated training for Silk Performer load test tool using proprietary 4GL language (BDL).
+
+Information Builders Incorporated (IBI), New York, N.Y.	9/93 to 6/97
+Quality Assurance Manager, IBI Focus Fusion (Data Warehouse) QA Department	(1/97 to 6/97)
+·	Managed activities of five QA staff members and administered their career plans. 
+·	Coordinated test plans of new product for QA staff and programming groups. 
+·	Assisted programmers with test reproductions and software defect prioritization. 
+·	Provided programmers immediate feedback by testing their local builds. 
+·	Received software builds for QA testing from CM (Clearcase) on UNIX (Solaris) and NT. 
+·	Assisted QA staff members using client/server testing tools. 
+·	Verified NT build installation and configuration by reviewing the MS Windows Registry. 
+·	Guaranteed features operate as documented or request correction to defective documentation. 
+·	Reported on QA exception statistics in weekly production status meeting. 
+Technical Support Specialist, IBI Open Systems QA Department		2/96 to 12/96
+·	Implemented in-house versions of client systems for client acceptance testing on AIX and HP-UX. 
+·	Ran clients' acceptance test programs, reported test results back to their QA team and recommended work-around changes to the client’s focexec scripts (IBI's 4GL).
+·	Ran and analyzed department regression test suite containing over 4,000 automated tests. 
+·	Tested SQL interfaces to Oracle and Sybase databases.
+·	Identified bugs through the UNIX QA run and assigned programmers to correct defects. 
+·	Assisted programmers by describing software functionality as found in requirements documents. 
+·	Used “Pure Coverage” tool (Rational) to ensure that testing adequately covered all active source code.
+·	Provided acceptance testing and worked with programmers to fine-tune their code.
+·	Provided performance analysis and QA of optimized product releases on HP and NCR. 
+·	Created the deliverable product by using K shell build scripts and UNIX utilities.
+Programmer Analyst, IBI Information Systems Services		11/94 to 2/96
+·	Rewrote Accounting application programs to adhere to departmental coding standards. 
+·	Debugged in-house Mainframe/CMS programs using Trace, Modify Debug and HLI data files. 
+·	Analyzed in-house accounting systems and Vertex Tax system to guarantee system integrity. 
+·	Assisted other programmers in debugging techniques and recommended system changes. 
+·	Designed Accounting’s data interface from ADP payroll system to the General Ledger. 
+·	Implemented enhancement requests. 
+MIS Analyst, IBI Professional Services		9/93 to 11/94
+·	Developed and implemented design changes in local PC/Focus database on VM/CMS. 
+
+Columbia House Company, New York, N.Y.			4/92 to 9/93
+Senior Analyst, Business Planning and Analysis Department
+Provided technical support to business analysts by programming and running MVS/TSO jobs using Focus, SyncSort and PL/1.  
+·	Provided technical support to business analysts by programming and running MVS/TSO jobs using Focus, SyncSort and PL/1Ran weekly mainframe Focus reports to provide sales statistics.
+·	Provided technical support for all system issues.
+
+M.C.I. Telecommunications, Rye Brook, N.Y.	6/89 to 2/92
+Analyst, Marketing, and Finance Departments
+·	Developed Focus and SAS mainframe applications on VM/CMS.
+·	Reported and analyzed trend statistics for quarterly forecast.
+Telco Cost Auditor, Telecommunications Cost Audit Department
+·	Designed Lotus macros for auditing invoices and verifying COBOL cost databases.
+·	Created LAN based Telecom cost control system using a PC/Focus database.
+
+TECHNICAL SKILLS
+QA Tools:  Selenium, Quick Test Pro, Silk Test, Silk Performer, IBM/Rational Robot, Jira, Cucumber
+Software: Apache, IIS, IBM WebSphere MQ Explorer, FTP, Telnet, SVN, CVS, VSS
+Languages:  C/C++, JCL, PL/1, SyncSort, COBOL, dBase, Focus, HTML, Perl, Bourne Shell, Korn Shell.
+Collaboration tools: Confluence Alfresco, SeeNowDo			
+Operating Systems: Solaris, HP/UX, AIX, DUX, SCO Unix, Linux, CMS, MVS/TSO, Window, MAC.
+Desktop Productivity Tools:  Word, Excel, Powerpoint, Visio, Snagit
+
+
+EDUCATION
+IONA COLLEGE, New Rochelle, N.Y.
+Masters of Business Administration, 	Management Information Systems, 		1/89 -June 1993
+Bachelor of Business Administration, 	Major: Finance, Minor: MIS,		9/84-June 1988	
+
+Professional Training
+American Society for Quality		Six Sigma Champion Training		October 2001
